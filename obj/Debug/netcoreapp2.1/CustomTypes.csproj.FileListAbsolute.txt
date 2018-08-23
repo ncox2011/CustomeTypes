@@ -1,0 +1,11 @@
+C:\Users\natas\workspace\csharp\exercises\LINQ\CustomTypes\bin\Debug\netcoreapp2.1\CustomTypes.deps.json
+C:\Users\natas\workspace\csharp\exercises\LINQ\CustomTypes\bin\Debug\netcoreapp2.1\CustomTypes.runtimeconfig.json
+C:\Users\natas\workspace\csharp\exercises\LINQ\CustomTypes\bin\Debug\netcoreapp2.1\CustomTypes.runtimeconfig.dev.json
+C:\Users\natas\workspace\csharp\exercises\LINQ\CustomTypes\bin\Debug\netcoreapp2.1\CustomTypes.dll
+C:\Users\natas\workspace\csharp\exercises\LINQ\CustomTypes\bin\Debug\netcoreapp2.1\CustomTypes.pdb
+C:\Users\natas\workspace\csharp\exercises\LINQ\CustomTypes\obj\Debug\netcoreapp2.1\CustomTypes.csprojAssemblyReference.cache
+C:\Users\natas\workspace\csharp\exercises\LINQ\CustomTypes\obj\Debug\netcoreapp2.1\CustomTypes.csproj.CoreCompileInputs.cache
+C:\Users\natas\workspace\csharp\exercises\LINQ\CustomTypes\obj\Debug\netcoreapp2.1\CustomTypes.AssemblyInfoInputs.cache
+C:\Users\natas\workspace\csharp\exercises\LINQ\CustomTypes\obj\Debug\netcoreapp2.1\CustomTypes.AssemblyInfo.cs
+C:\Users\natas\workspace\csharp\exercises\LINQ\CustomTypes\obj\Debug\netcoreapp2.1\CustomTypes.dll
+C:\Users\natas\workspace\csharp\exercises\LINQ\CustomTypes\obj\Debug\netcoreapp2.1\CustomTypes.pdb
